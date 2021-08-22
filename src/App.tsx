@@ -150,7 +150,7 @@ function App() {
         </h4>
 
         <p>
-          There are only counts here. For more informative data that leverages natural language processing I would (hope to) work with a Data Scientist team member. I'd use his data to improve the insight and impact of the charts and presentations I build.
+          There are only counts here. For more informative data that leverages natural language processing, and other data science methods, I would (hope to) work with a Data Scientist team member. I'd use his data to improve the insight and impact of the charts and presentations I build.
         </p>
 
         <h4>
