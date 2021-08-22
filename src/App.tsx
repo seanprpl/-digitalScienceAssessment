@@ -175,6 +175,13 @@ function App() {
           Rich custom visualizations would be used to have a higher impact on our readers. Instead of Recharts I would build D3 visualizations. Large, multi-faceted datasets would help our readers understand complex interactions between multiple dimensions, increasing clarity and insight.
         </p>
 
+        <h4>
+          Modular design pattern
+        </h4>
+        <p>
+          I would refactor the current large React component into a series of modules, something like a "VisualizationExplainer." These would represent independent sections of the article. Data would pass in to define the type, and datapoints for each chart, as well as accompanying headlines, text, sidebars, etc.
+        </p>
+
       </section>
       
     </div>
