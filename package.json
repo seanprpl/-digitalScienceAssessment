@@ -25,6 +25,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "netlify": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "parser": "ts-node scripts/Counter.ts"
