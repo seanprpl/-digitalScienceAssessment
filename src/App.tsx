@@ -54,7 +54,7 @@ function App() {
             <li>Node.js - Data pre-processing script</li>
             <li>Recharts - Basic charting libraries</li>
             <li>React Wordcloud</li>
-            <li>Netlify - Simple static site hosting</li>
+            <li>AWS S3 - Web hosting</li>
           </ul>
       </section>
 
